@@ -6,7 +6,7 @@ Repository source:
 - `https://github.com/jjimenezg88/lidr-specboot`
 
 Raw setup file URL:
-- `https://raw.githubusercontent.com/LIDR-academy/lidr-specboot/main/setup-sdd.md`
+- `https://raw.githubusercontent.com/jjimenezg88/lidr-specboot/refs/heads/setup-sdd/setup-sdd.md`
 
 ---
 
